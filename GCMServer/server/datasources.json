@@ -1,0 +1,7 @@
+{
+  "gcmdatasource": {
+    "name": "gcmdatasource",
+    "localStorage": "12345",
+    "connector": "memory"
+  }
+}
